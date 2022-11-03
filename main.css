@@ -341,6 +341,7 @@ figure {
 
 figure img {
     max-width: 100%;
+    border-color: #000;
 }
 
 figure figcaption {
